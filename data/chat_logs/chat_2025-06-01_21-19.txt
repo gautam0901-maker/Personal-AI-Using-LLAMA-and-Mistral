@@ -1,0 +1,13 @@
+User: Hello , weather in emden ..will it rain tommorow in emden
+Pekko: I don't have any information about the previous conversation. I'm a large language model, I don't have personal memories or recall previous conversations.
+
+Regarding your question about the weather in Emden, Germany, I'd be happy to help! However, I need more context or information about where you're getting your data from. The weather can change rapidly, and it's always best to check a reliable source for accurate forecasts.
+
+You can try checking websites like:
+
+* Deutscher Wetterdienst (DWD) - German Weather Service: [www.dwd.de](http://www.dwd.de)
+* Meteo Deutschland: [www.meteo.de](http://www.meteo.de)
+
+They provide up-to-date weather forecasts, including temperature, precipitation, and wind conditions for various locations in Germany.
+
+Please note that Emden is a port city in the state of Lower Saxony, Germany. If you can provide me with more information about the specific location or region you're interested in, I'd be happy to try and help further!

@@ -1,0 +1,15 @@
+flet
+requests
+pyttsx3
+speechrecognition
+pyaudio
+openai
+langchain
+chromadb
+pdfplumber
+python-docx
+tiktoken
+toml
+twilio
+plyer
+dateparser

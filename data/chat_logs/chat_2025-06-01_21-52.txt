@@ -1,0 +1,2 @@
+User: give me the weather in emden
+Pekko: Hey there!  Let me check the weather in Emden for you right now. Just one moment please! 😊
